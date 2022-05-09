@@ -1,0 +1,5 @@
+hello git
+hello hive
+hello hadoop
+hello sqoop
+hello mysql
